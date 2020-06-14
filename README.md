@@ -1,2 +1,2 @@
 # WindowFarm
-:seedling: windowfarm project 2017.07 - 2017.12
+windowfarm project 2017.07 - 2017.12 :seedling:
